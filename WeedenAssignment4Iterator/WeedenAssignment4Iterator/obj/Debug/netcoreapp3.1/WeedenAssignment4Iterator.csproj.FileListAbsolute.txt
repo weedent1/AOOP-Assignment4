@@ -1,0 +1,11 @@
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/bin/Debug/netcoreapp3.1/WeedenAssignment4Iterator
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/bin/Debug/netcoreapp3.1/WeedenAssignment4Iterator.deps.json
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/bin/Debug/netcoreapp3.1/WeedenAssignment4Iterator.runtimeconfig.json
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/bin/Debug/netcoreapp3.1/WeedenAssignment4Iterator.runtimeconfig.dev.json
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/bin/Debug/netcoreapp3.1/WeedenAssignment4Iterator.dll
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/bin/Debug/netcoreapp3.1/WeedenAssignment4Iterator.pdb
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/obj/Debug/netcoreapp3.1/WeedenAssignment4Iterator.csprojAssemblyReference.cache
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/obj/Debug/netcoreapp3.1/WeedenAssignment4Iterator.AssemblyInfoInputs.cache
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/obj/Debug/netcoreapp3.1/WeedenAssignment4Iterator.AssemblyInfo.cs
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/obj/Debug/netcoreapp3.1/WeedenAssignment4Iterator.dll
+/Users/tristan/Desktop/MATC/WeedenAssignment4Iterator/WeedenAssignment4Iterator/obj/Debug/netcoreapp3.1/WeedenAssignment4Iterator.pdb
